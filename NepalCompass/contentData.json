@@ -1,0 +1,697 @@
+{
+  "menuItems": {
+    "Arriving in Nepal": {
+      "General": [
+        {
+          "type": "text",
+          "content": "Nepal provides visa-on-arrival for most nationalities at Tribhuvan International Airport (TIA) in Kathmandu. Payment is accepted in major currencies like USD, EUR, and GBP."
+        },
+        {
+            "type" : "table",
+            
+               "content": "Duration | Cost (USD)\n15 days | 30 \n30 days | 50\n90 days | 125"
+             
+        },
+        {
+          "type": "recommendation",
+          "content": "To save time, pre-fill the visa application form online through Nepal’s Department of Immigration website and carry passport-sized photos. The visa counters at the airport can get crowded during peak hours."
+        },
+        {
+          "type": "note",
+          "content": "Indian nationals do not require a visa to enter Nepal. However, Indian currency is not accepted for visa payments at the airport."
+        },
+        {
+          "type": "text",
+          "content": "Currency exchange services are available at the airport, though the exchange rates in the city may be more favorable. ATMs are also widely available in the arrivals area."
+        },
+        {
+          "type": "recommendation",
+          "content": "Use a ride-hailing app like 'Pathao' or 'InDrive' for transportation from the airport to avoid haggling with local taxi drivers. These apps allow for convenient cashless payments."
+        },
+        {
+          "type": "note",
+          "content": "Taxis at the airport may charge extra fees due to parking costs. It’s often cheaper to walk a short distance outside the airport to hail a taxi."
+        }
+      ],
+      "Kathmandu": [
+        {
+          "type": "text",
+          "content": "Tribhuvan International Airport (TIA) is Nepal’s largest and busiest airport, located 6 kilometers from the city center. It offers facilities such as currency exchange, ATMs, SIM cards, and a tourist information desk."
+        },
+        {
+          "type": "recommendation",
+          "content": "Purchase a SIM card at the airport for immediate connectivity. NCELL and NTC are the primary service providers, with NCELL being the preferred option for better rural coverage. SIM cards are affordable and require a passport for registration."
+        },
+        {
+          "type": "table",
+          "content": "SIM Type | Cost | Validity\nNCELL 4G | $5 | 15 Days\nNTC 4G | $10 | 30 Days"
+        },
+        {
+          "type": "text",
+          "content": "There are numerous taxis outside TIA that can take you to any part of Kathmandu. The journey to central areas like Thamel takes around 20-30 minutes depending on traffic."
+        },
+        {
+          "type": "recommendation",
+          "content": "Negotiate the fare or use a taxi with a meter to avoid overcharging. Alternatively, apps like 'Pathao' provide fixed rates."
+        },
+        {
+          "type": "note",
+          "content": "Ensure you have small bills in NPR (Nepalese Rupees), as taxi drivers might not have change for large bills."
+        }
+      ],
+      "Pokhara": [
+        {
+          "type": "text",
+          "content": "Pokhara's domestic airport primarily serves flights from Kathmandu, though some regional flights are available. Most international travelers land in Kathmandu first, then transfer via a domestic flight or bus."
+        },
+        {
+          "type": "recommendation",
+          "content": "Book flights in advance during peak tourist seasons as domestic flights to Pokhara fill up quickly, especially for trekkers heading to the Annapurna region."
+        },
+        {
+          "type": "note",
+          "content": "Taxis are available from Pokhara airport to Lakeside or Sarangkot, popular tourist areas. Negotiate the fare in advance or opt for pre-booked taxis through your hotel."
+        },
+        {
+          "type": "text",
+          "content": "Travelers can also opt for luxury buses from Kathmandu to Pokhara, offering scenic views of the Himalayan foothills along the journey. The bus ride typically takes 6-8 hours."
+        }
+      ],
+      "Chitwan": [
+        {
+          "type": "text",
+          "content": "Chitwan can be reached by domestic flights from Kathmandu to Bharatpur Airport, followed by a short drive to Sauraha, the main town near Chitwan National Park. Buses from Kathmandu and Pokhara to Chitwan are also widely available."
+        },
+        {
+          "type": "recommendation",
+          "content": "For quicker access, book domestic flights to Bharatpur. Alternatively, tourist buses offer an affordable option with a scenic route that takes about 6 hours from Kathmandu or Pokhara."
+        },
+        {
+          "type": "note",
+          "content": "During monsoon season (June-August), flights to Bharatpur may experience delays or cancellations due to weather conditions. It’s advisable to plan accordingly."
+        },
+        {
+          "type": "text",
+          "content": "Chitwan is well-known for its jungle safaris and wildlife experiences, so pre-arrange transport with your hotel or eco-lodge for a seamless transfer from the airport or bus station."
+        }
+      ]
+    },
+
+        "Accommodation": {
+          "General": [
+            {
+              "type": "text",
+              "content": "Nepal offers a variety of accommodation options ranging from luxury hotels to budget-friendly hostels. Whether you are looking for a 5-star experience or a cozy homestay, Nepal caters to all kinds of travelers."
+            },
+            {
+              "type": "recommendation",
+              "content": "Book your accommodation in advance, especially during peak seasons (March-May and September-November), when trekking and tourism activity is at its highest."
+            },
+            {
+              "type": "table",
+              "content": "Type | Price Range\nLuxury | 200 - 500 USD per night\nMid-range | 50 - 150 USD per night\nBudget | 10 - 40 USD per night"
+            },
+            {
+              "type": "note",
+              "content": "Most accommodations in Nepal offer free Wi-Fi, and many include breakfast as part of the stay. However, services can be basic in more remote regions."
+            }
+          ],
+          "Kathmandu": [
+            {
+              "type": "text",
+              "content": "Kathmandu, the capital of Nepal, offers a wide range of accommodations, from luxury 5-star hotels to budget hostels. The tourist hub of Thamel is particularly popular for budget travelers, while areas like Boudhanath and Patan offer more tranquil stays."
+            },
+            {
+              "type": "recommendation",
+              "content": "For a luxurious experience, stay at Dwarika's Hotel, a heritage hotel that blends traditional Nepali architecture with modern comforts. Thamel, on the other hand, is ideal for budget travelers, with hostels like Zostel and Elbrus Home offering affordable yet comfortable stays."
+            },
+            {
+              "type": "table",
+              "content": "Hotel | Price\nDwarika’s Hotel | 400-500 USD/night\nHyatt Regency | 300-400 USD/night\nKathmandu Guest House | 50-70 USD/night\nThamel Hostels | 10-20 USD/night"
+            },
+            {
+              "type": "note",
+              "content": "Thamel is a vibrant area with lots of options for dining, shopping, and nightlife, making it ideal for budget travelers. However, it can be noisy at night."
+            },
+            {
+              "type": "text",
+              "content": "Boutique hotels in quieter areas like Patan offer a more relaxed atmosphere, with smaller hotels such as Hotel Heritage and Swotha Traditional Homes providing an intimate and culturally rich experience."
+            }
+          ],
+          "Pokhara": [
+            {
+              "type": "text",
+              "content": "Pokhara, known for its scenic beauty and proximity to trekking routes, offers a wide range of accommodation options, primarily centered around the Lakeside area."
+            },
+            {
+              "type": "recommendation",
+              "content": "For a luxurious stay, opt for Fish Tail Lodge or Temple Tree Resort & Spa, both offering views of Phewa Lake and the surrounding mountains. Budget travelers can find comfortable guesthouses and hostels around Lakeside."
+            },
+            {
+              "type": "table",
+              "content": "Hotel | Price\nFish Tail Lodge | 150-200 USD/night\nTemple Tree Resort | 100-150 USD/night\nLakeside Guesthouses | 20-50 USD/night\nBudget Hostels | 10-20 USD/night"
+            },
+            {
+              "type": "note",
+              "content": "Most hotels and guesthouses around Lakeside provide easy access to the lake and offer beautiful views of the Annapurna mountain range."
+            },
+            {
+              "type": "text",
+              "content": "If you are looking for a quiet retreat, hotels on the outskirts of Pokhara, such as Raniban Retreat, offer peaceful environments with panoramic views of the Himalayas."
+            }
+          ],
+          "Chitwan": [
+            {
+              "type": "text",
+              "content": "Chitwan, home to the famous Chitwan National Park, offers a range of eco-lodges and jungle resorts that cater to both luxury and budget travelers. Accommodations here are focused on providing an immersive experience in nature and wildlife."
+            },
+            {
+              "type": "recommendation",
+              "content": "For an authentic jungle experience, consider staying at the Meghauli Serai or Barahi Jungle Lodge, which offer guided safaris and luxury in the heart of the jungle. Budget travelers can opt for eco-friendly lodges around Sauraha town."
+            },
+            {
+              "type": "table",
+              "content": "Lodge | Price\nMeghauli Serai | 300-400 USD/night\nBarahi Jungle Lodge | 200-300 USD/night\nChitwan Jungle Lodge | 100-150 USD/night\nBudget Lodges | 30-50 USD/night"
+            },
+            {
+              "type": "note",
+              "content": "Many lodges in Chitwan offer full board, including meals and guided wildlife activities such as jeep safaris and jungle walks."
+            },
+            {
+              "type": "text",
+              "content": "For travelers interested in eco-tourism, there are several lodges around Chitwan that focus on sustainability and conservation, making them great choices for eco-conscious visitors."
+            }
+          ]
+        },
+     
+    
+         "Getting Around": {
+           "General": [
+             {
+               "type": "text",
+               "content": "Nepal offers a variety of transportation options, including taxis, buses, ride-hailing apps, and domestic flights. While public transport is available, it is often crowded and less reliable, especially in cities."
+             },
+             {
+               "type": "recommendation",
+               "content": "For ease and convenience, use ride-hailing apps like 'Pathao' or 'InDrive' in major cities. These apps allow for cashless payments and prevent the need to negotiate fares with drivers."
+             },
+             {
+               "type": "note",
+               "content": "In rural or remote areas, public transport options are limited, and private vehicles or shared jeeps are the most common way to travel."
+             },
+             {
+               "type": "table",
+               "content": "City | Mode | Cost\nKathmandu | Taxi (5 km) | 300 NPR\nPokhara | Taxi (Lakeside to Sarangkot) | 500 NPR\nChitwan | Auto-rickshaw (within Sauraha) | 200 NPR\nKathmandu to Pokhara | Tourist Bus | 1000-1500 NPR"
+             }
+           ],
+           "Kathmandu": [
+             {
+               "type": "text",
+               "content": "Getting around Kathmandu can be challenging due to traffic congestion, especially during peak hours. The most common modes of transport include taxis, buses, and ride-hailing apps. Public buses and microbuses are the cheapest options but can be difficult for new travelers to navigate."
+             },
+             {
+               "type": "recommendation",
+               "content": "For tourists, the best way to get around Kathmandu is by using ride-hailing apps such as Pathao or InDrive. These apps provide set rates and avoid the need for fare negotiations with taxi drivers."
+             },
+             {
+               "type": "note",
+               "content": "Taxis are widely available, but many do not use meters. Agree on the fare before starting your journey, or insist that the driver use the meter."
+             },
+             {
+               "type": "table",
+               "content": "Transport Mode | Cost\nTaxi (Thamel to Bhaktapur) | 1000-1500 NPR\nMicrobus (City routes) | 20-30 NPR\nTourist Bus (Kathmandu to Pokhara) | 1000-1500 NPR"
+             },
+             {
+               "type": "text",
+               "content": "Kathmandu also has several travel agencies offering private cars and vehicles for day trips to places like Bhaktapur, Nagarkot, or Patan. Domestic flights are available from Kathmandu Airport to destinations like Pokhara, Chitwan, and Lukla."
+             },
+             {
+               "type": "recommendation",
+               "content": "For longer trips, such as to Bhaktapur or Nagarkot, consider hiring a private car or booking a tour through a local travel agency."
+             }
+           ],
+           "Pokhara": [
+             {
+               "type": "text",
+               "content": "Pokhara is more relaxed than Kathmandu when it comes to getting around. The main tourist area, Lakeside, is walkable, and many visitors choose to rent bicycles or motorbikes. Taxis and ride-hailing services are also available."
+             },
+             {
+               "type": "recommendation",
+               "content": "For exploring areas like Sarangkot or the World Peace Pagoda, renting a scooter or motorbike is a convenient and affordable option."
+             },
+             {
+               "type": "table",
+               "content": "Transport Mode | Cost\nBicycle (Rental) | 500 NPR/day\nMotorbike (Rental) | 1000 NPR/day\nTaxi (Lakeside to Sarangkot) | 500-700 NPR"
+             },
+             {
+               "type": "note",
+               "content": "Bicycle and motorbike rentals are widely available in Lakeside, and the roads in Pokhara are generally easier to navigate than those in Kathmandu."
+             },
+             {
+               "type": "text",
+               "content": "For longer trips or visits to nearby areas, tourists often book private cars or tourist buses. Domestic flights from Pokhara Airport connect to Kathmandu and Jomsom for those trekking in the Annapurna region."
+             }
+           ],
+           "Chitwan": [
+             {
+               "type": "text",
+               "content": "In Chitwan, getting around is primarily done by auto-rickshaws or walking. The small town of Sauraha, which borders Chitwan National Park, is easily navigated by foot. For exploring further into the park, jeep safaris and guided tours are the best options."
+             },
+             {
+               "type": "recommendation",
+               "content": "Most lodges and hotels in Chitwan offer organized transportation, including jeep safaris and boat rides. If you need to travel within Sauraha, auto-rickshaws are affordable and readily available."
+             },
+             {
+               "type": "note",
+               "content": "Chitwan is not a large urban center, so public transport is limited to auto-rickshaws and shared jeeps. Most tourists rely on transportation provided by their accommodations."
+             },
+             {
+               "type": "text",
+               "content": "Travel to Chitwan from Kathmandu or Pokhara is usually by tourist bus or domestic flight to Bharatpur. The bus ride offers scenic views, while flights are quicker and more comfortable."
+             },
+             {
+               "type": "table",
+               "content": "Transport Mode | Cost\nAuto-rickshaw (within Sauraha) | 200 NPR\nJeep Safari (through hotel) | 2500-3000 NPR\nTourist Bus (Kathmandu to Chitwan) | 1000-1500 NPR"
+             }
+           ]
+      
+     },
+
+        
+             "Local Cuisine": {
+               "General": [
+                 {
+                   "type": "text",
+                   "content": "Nepal's local cuisine is a blend of flavors influenced by Tibetan, Indian, and Chinese culinary traditions. Staple foods include rice, lentils, and vegetables, with dishes like Dal Bhat being a daily meal for most Nepalese."
+                 },
+                 {
+                   "type": "recommendation",
+                   "content": "Try Dal Bhat, Nepal's staple dish. It’s a nutritious meal consisting of lentil soup, steamed rice, vegetable curry, and pickles. You can find it in almost every restaurant."
+                 },
+                 {
+                   "type": "note",
+                   "content": "Nepal is highly vegetarian-friendly due to religious and cultural influences, but meat options like chicken, mutton, and buffalo are also common in local cuisine."
+                 },
+                 {
+                   "type": "table",
+                   "content": "Dish | Description\nDal Bhat Tarkari | A complete meal of rice, lentils, and vegetables, often served with a side of pickle and curd\nMomo | Popular dumplings filled with minced meat or vegetables, served steamed or fried\nNewari Khaja Set | A traditional Newari meal that includes beaten rice, spiced meat, pickles, and lentil soup\nSel Roti | A sweet, ring-shaped rice bread, often served with yogurt"
+                 }
+               ],
+               "Kathmandu": [
+                 {
+                   "type": "text",
+                   "content": "Kathmandu offers a diverse range of local dishes, from traditional Newari cuisine to more mainstream Nepali food. Thamel is a hotspot for restaurants offering both local and international dishes, while the old city areas serve authentic street food."
+                 },
+                 {
+                   "type": "recommendation",
+                   "content": "Don’t miss trying Newari cuisine in Kathmandu, especially dishes like Yomari (steamed rice flour dumplings filled with sweet molasses) and Chatamari (a rice flour crepe often topped with minced meat or eggs)."
+                 },
+                 {
+                   "type": "table",
+                   "content": "Restaurant | Special Dish\nBhumi Restaurant (Thamel) | Dal Bhat Tarkari\nSasa (Patan) | Newari Khaja Set\nHonacha (Durbar Square) | Bara (Lentil Pancakes)\nThakali Bhanchha Ghar | Thakali Khana Set"
+                 },
+                 {
+                   "type": "note",
+                   "content": "For authentic Newari cuisine, visit Bhaktapur or Patan, where traditional dishes like Juju Dhau (sweet curd) are a specialty."
+                 }
+               ],
+               "Pokhara": [
+                 {
+                   "type": "text",
+                   "content": "Pokhara is a foodie’s paradise, offering a variety of local and Tibetan-influenced dishes. Lakeside, the main tourist area, is home to restaurants that serve Nepali, Thakali, and Tibetan food."
+                 },
+                 {
+                   "type": "recommendation",
+                   "content": "While in Pokhara, try the Thakali Khana Set, which features rice, lentil soup, meat or vegetable curries, and ghee. You can find this meal at traditional Thakali restaurants in Lakeside."
+                 },
+                 {
+                   "type": "table",
+                   "content": "Restaurant | Special Dish\nMoondance Restaurant | Dal Bhat\nOR2K (Lakeside) | Vegan Momos\nBusy Bee Cafe | Yak Cheese Pizza\nThakali Bhanchha | Thakali Khana Set"
+                 },
+                 {
+                   "type": "note",
+                   "content": "Lakeside is a great place to try Yak Cheese, a local delicacy often served on pizza or as a standalone snack."
+                 }
+               ],
+               "Chitwan": [
+                 {
+                   "type": "text",
+                   "content": "Chitwan’s local cuisine is a mix of Nepali and Tharu dishes, with an emphasis on fresh fish and jungle ingredients. Visitors can experience traditional Tharu meals in local villages or eco-lodges."
+                 },
+                 {
+                   "type": "recommendation",
+                   "content": "Try Tharu cuisine, which includes fish, rice, lentils, and unique dishes like Ghonghi (snail curry) and Dhikri (steamed rice flour dumplings). Many lodges offer these dishes as part of their meal plans."
+                 },
+                 {
+                   "type": "table",
+                   "content": "Restaurant | Special Dish\nJungle Sunset Camp | Tharu Fish Curry\nTharu Village Resort | Ghonghi (Snail Curry)\nKC's Restaurant | Dal Bhat with Jungle Vegetables"
+                 },
+                 {
+                   "type": "note",
+                   "content": "Many eco-lodges in Chitwan prepare meals with ingredients sourced locally, offering visitors a unique taste of the region’s jungle-inspired cuisine."
+                 }
+               ]
+             },
+            
+                 "Continental Cuisine": {
+                   "General": [
+                     {
+                       "type": "text",
+                       "content": "Nepal has a wide selection of continental cuisine options catering to tourists. From Italian, Chinese, and Indian to Mexican and American fare, you can find a diverse range of international dishes, especially in popular tourist destinations."
+                     },
+                     {
+                       "type": "recommendation",
+                       "content": "Continental restaurants are most common in cities like Kathmandu and Pokhara, and often have vegan and vegetarian-friendly menus."
+                     },
+                     {
+                       "type": "note",
+                       "content": "While continental cuisine is widely available in cities, rural areas have limited options, with local cuisine being the primary offering."
+                     },
+                     {
+                       "type": "table",
+                       "content": "Cuisine Type | Common Dishes\nItalian | Pizza, Pasta, Risotto\nChinese | Fried Rice, Noodles, Dumplings\nIndian | Curries, Naan, Tandoori\nMexican | Tacos, Burritos, Nachos"
+                     }
+                   ],
+                   "Kathmandu": [
+                     {
+                       "type": "text",
+                       "content": "Kathmandu’s Thamel district is the heart of continental cuisine in Nepal. You'll find an array of international restaurants serving Italian, Mexican, Chinese, Indian, and fusion dishes catering to all dietary preferences."
+                     },
+                     {
+                       "type": "recommendation",
+                       "content": "Head to Fire and Ice for authentic Italian pizza or Roadhouse Cafe for a mix of international dishes, including wood-fired pizza and grilled meats."
+                     },
+                     {
+                       "type": "table",
+                       "content": "Restaurant | Special Dish\nFire and Ice (Thamel) | Margherita Pizza\nRoadhouse Cafe (Thamel) | BBQ Chicken Pizza\nUTSE Restaurant (Thamel) | Chinese Dumplings\nMitho Restaurant | Vegan Indian Curries"
+                     },
+                     {
+                       "type": "note",
+                       "content": "Many restaurants in Thamel offer vegan, vegetarian, and gluten-free options, catering to international tourists with dietary restrictions."
+                     },
+                     {
+                       "type": "text",
+                       "content": "For those craving Mexican food, visit places like El Mediterraneo for tacos, burritos, and nachos. These restaurants serve fresh, homemade tortillas and guacamole."
+                     }
+                   ],
+                   "Pokhara": [
+                     {
+                       "type": "text",
+                       "content": "Pokhara’s Lakeside area is renowned for its laid-back vibe and wide variety of continental food options. Restaurants here offer everything from Italian pizzas to Middle Eastern and Asian fusion dishes."
+                     },
+                     {
+                       "type": "recommendation",
+                       "content": "For an upscale dining experience, try The Olive Cafe, known for its Mediterranean dishes and fresh seafood. If you’re in the mood for comfort food, Moondance Restaurant serves hearty burgers and pizzas."
+                     },
+                     {
+                       "type": "table",
+                       "content": "Restaurant | Special Dish\nThe Olive Cafe | Grilled Fish\nMoondance Restaurant | BBQ Pork Ribs\nBusy Bee Cafe | Yak Cheese Pizza\nOR2K | Vegan Mediterranean Platter"
+                     },
+                     {
+                       "type": "note",
+                       "content": "Lakeside Pokhara is particularly popular for its lakeside dining with beautiful views of Phewa Lake, making it a perfect spot to enjoy continental cuisine with a scenic backdrop."
+                     },
+                     {
+                       "type": "text",
+                       "content": "For Asian fusion, try Aozora Japanese Restaurant, which offers sushi, ramen, and other Japanese-inspired dishes. This restaurant also caters to vegan and vegetarian diets."
+                     }
+                   ],
+                   "Chitwan": [
+                     {
+                       "type": "text",
+                       "content": "In Chitwan, the options for continental cuisine are fewer compared to Kathmandu and Pokhara, but many lodges and hotels offer international dishes along with local fare. Restaurants in Sauraha cater to tourists visiting Chitwan National Park."
+                     },
+                     {
+                       "type": "recommendation",
+                       "content": "For a relaxed meal after a safari, visit KC’s Restaurant and Bar in Sauraha, which offers a mix of continental and local dishes, including pasta and steaks."
+                     },
+                     {
+                       "type": "table",
+                       "content": "Restaurant | Special Dish\nKC’s Restaurant (Sauraha) | Grilled Chicken\nJungle Wildlife Camp Restaurant | Fish and Chips\nSafari Narayani Hotel | International Buffet"
+                     },
+                     {
+                       "type": "note",
+                       "content": "While continental options are available, some restaurants in Chitwan may focus on more basic international dishes like pasta, pizza, and grilled meats."
+                     },
+                     {
+                       "type": "text",
+                       "content": "Many of the eco-lodges and resorts in Chitwan provide a combination of local and continental cuisine as part of their meal packages, catering to a range of tastes."
+                     }
+                   ]
+                 },
+                
+                     "Street Food": {
+                       "General": [
+                         {
+                           "type": "text",
+                           "content": "Street food in Nepal is a reflection of its cultural diversity, influenced by Tibetan, Newari, and Indian flavors. Popular street foods include Momo (dumplings), Sel Roti (fried rice doughnuts), and Chatpate (a tangy, spicy snack). These affordable and delicious snacks are widely available in cities and towns across Nepal."
+                         },
+                         {
+                           "type": "recommendation",
+                           "content": "Try Momo from local stalls, usually served with a tangy tomato-based dipping sauce. Fried or steamed, these dumplings come stuffed with meat or vegetables."
+                         },
+                         {
+                           "type": "note",
+                           "content": "Street food is generally safe to eat in Nepal, but it's advisable to choose vendors that cook food fresh in front of you and serve it hot."
+                         },
+                         {
+                           "type": "table",
+                           "content": "Street Food | Description\nMomo | Dumplings filled with meat or vegetables, served with spicy chutney\nSel Roti | Sweet, ring-shaped fried dough made from rice flour\nChatpate | A spicy, tangy snack made with puffed rice, potatoes, peas, and spices\nPani Puri | Hollow, crispy puris filled with spicy, tangy water and mashed potatoes"
+                         }
+                       ],
+                       "Kathmandu": [
+                         {
+                           "type": "text",
+                           "content": "Kathmandu is a street food haven, especially in areas like Ason Bazaar and New Road, where you'll find a wide range of Nepali and Newari snacks. From piping hot Momos to Newari classics like Bara (lentil pancakes), street food in Kathmandu reflects the city's rich cultural heritage."
+                         },
+                         {
+                           "type": "recommendation",
+                           "content": "Don’t miss trying Chatpate, a spicy puffed rice snack available at small street stalls in Ason and Durbar Marg. It’s especially popular in the evenings."
+                         },
+                         {
+                           "type": "table",
+                           "content": "Street Food | Popular Spots\nMomo | Boudha, Ason Bazaar\nSel Roti | Indra Chowk, Thamel\nBara | Patan, Bhaktapur\nChatpate | New Road, Durbar Marg"
+                         },
+                         {
+                           "type": "note",
+                           "content": "Thamel is also a great spot to try street food, though it tends to cater more to tourists, so prices can be slightly higher than local markets."
+                         },
+                         {
+                           "type": "text",
+                           "content": "In Bhaktapur, you can find Juju Dhau (sweet curd) served at small street-side stalls, a must-try local dessert that’s both refreshing and unique to the area."
+                         }
+                       ],
+                       "Pokhara": [
+                         {
+                           "type": "text",
+                           "content": "Pokhara’s street food scene is centered around the Lakeside area, where local and international flavors blend. While the variety may not be as vast as Kathmandu’s, the street stalls still serve popular snacks like Momos, Sel Roti, and Tibetan bread."
+                         },
+                         {
+                           "type": "recommendation",
+                           "content": "Try Pokhara's unique take on Momo, often filled with buffalo meat (buff), which is a local favorite. Many vendors also serve it fried for a crispy twist."
+                         },
+                         {
+                           "type": "table",
+                           "content": "Street Food | Popular Spots\nBuff Momos | Lakeside\nSel Roti | Hallan Chowk, Lakeside\nTibetan Bread | Lakeside, Dam Side"
+                         },
+                         {
+                           "type": "note",
+                           "content": "Lakeside, being the tourist hub, offers street food stalls alongside more formal restaurants, making it an easy place to find both local snacks and international street food."
+                         }
+                       ],
+                       "Chitwan": [
+                         {
+                           "type": "text",
+                           "content": "Chitwan, particularly the town of Sauraha, offers a small but interesting street food scene, with stalls that cater to both locals and tourists. The focus here is often on simple Nepali snacks and local specialties."
+                         },
+                         {
+                           "type": "recommendation",
+                           "content": "While in Chitwan, try local snacks like Sel Roti and Aloo Dum (spicy potato curry), which are commonly sold in small stalls around Sauraha."
+                         },
+                         {
+                           "type": "note",
+                           "content": "Chitwan’s street food is typically more basic compared to Kathmandu and Pokhara, but it’s worth exploring for local flavors, especially around the main tourist areas."
+                         },
+                         {
+                           "type": "table",
+                           "content": "Street Food | Popular Spots\nSel Roti | Sauraha Bazaar\nAloo Dum | Sauraha\nPani Puri | Sauraha Bazaar"
+                         }
+                       ]
+                     },
+                   
+
+
+           
+
+           
+           
+           
+           
+           
+           
+                
+                    "Trekking and Hiking": {
+                      "General": [
+                        {
+                          "type": "text",
+                          "content": "Nepal is renowned for its world-class trekking routes, ranging from easy to strenuous trails."
+                        },
+                        {
+                          "type": "recommendation",
+                          "content": "Prepare adequately with permits (TIMS and Conservation Area Permits) and plan for acclimatization when trekking at high altitudes."
+                        },
+                        {
+                          "type": "table",
+                          "content": "Trail | Duration | Difficulty\nEverest Base Camp | 12-14 Days | Strenuous\nAnnapurna Circuit | 7-10 Days | Moderate\nGhorepani Poon Hill | 4-6 Days | Easy"
+                        }
+                      ],
+                      "Kathmandu": [
+                        {
+                          "type": "text",
+                          "content": "Kathmandu serves as the starting point for the Langtang Valley Trek, a beautiful yet less crowded trail."
+                        },
+                        {
+                          "type": "recommendation",
+                          "content": "Langtang Valley Trek is suitable for trekkers looking for moderate difficulty without extreme altitudes."
+                        },
+                        {
+                          "type": "note",
+                          "content": "The Langtang trek usually lasts 7-10 days, passing through lush valleys and offering spectacular mountain views."
+                        }
+                      ],
+                      "Pokhara": [
+                        {
+                          "type": "text",
+                          "content": "Pokhara is the base for treks to Annapurna Base Camp and the shorter Ghorepani Poon Hill Trek."
+                        },
+                        {
+                          "type": "recommendation",
+                          "content": "For beginners, Poon Hill Trek is an excellent choice, offering stunning sunrise views of the Annapurna range."
+                        },
+                        {
+                          "type": "table",
+                          "content": "Trail | Duration | Difficulty\nAnnapurna Base Camp | 7-10 Days | Moderate\nPoon Hill | 4-6 Days | Easy"
+                        }
+                      ]
+                    },
+                   
+                        "Handicrafts": {
+                          "General": [
+                            {
+                              "type": "text",
+                              "content": "Nepal offers a variety of traditional handicrafts, including pashmina shawls, thangka paintings, and singing bowls."
+                            },
+                            {
+                              "type": "recommendation",
+                              "content": "Bargain at local markets for items such as prayer flags, pottery, and jewelry."
+                            },
+                            {
+                              "type": "table",
+                              "content": "Item | Price Range\nPashmina Shawl | 10-50 USD\nSinging Bowl | 20-100 USD\nThangka Painting | 30-300 USD"
+                            }
+                          ],
+                          "Kathmandu": [
+                            {
+                              "type": "text",
+                              "content": "Kathmandu is a hub for authentic handicrafts. Head to Ason Bazaar or Thamel for a wide variety of souvenirs."
+                            },
+                            {
+                              "type": "recommendation",
+                              "content": "Visit Patan for high-quality metalwork and handcrafted statues."
+                            }
+                          ],
+                          "Pokhara": [
+                            {
+                              "type": "text",
+                              "content": "In Pokhara, Lakeside Market is a prime location for shopping for handicrafts, jewelry, and textiles."
+                            },
+                            {
+                              "type": "recommendation",
+                              "content": "Look for handwoven Tibetan carpets and scarves, which are popular in this region."
+                            }
+                          ]
+                        },
+                        
+                        "Souvenirs": {
+                          "General": []},
+                        "Local Markets": {
+                          "General": []},
+                        "Safety and Health": {
+                          "General": [
+                            {
+                              "type": "text",
+                              "content": "Nepal is generally safe, but it's important to be cautious in crowded areas and when trekking in remote regions."
+                            },
+                            {
+                              "type": "recommendation",
+                              "content": "Ensure you have travel insurance that covers trekking and high-altitude evacuations."
+                            },
+                            {
+                              "type": "table",
+                              "content": "Emergency Service | Number\nPolice | 100\nAmbulance | 102\nFire | 101"
+                            }
+                          ]
+                        },
+                            
+                            "Money Matters": {
+                              "General": [
+                                {
+                                  "type": "text",
+                                  "content": "The official currency in Nepal is the Nepalese Rupee (NPR). Major currencies like USD, EUR, and GBP can be exchanged easily."
+                                },
+                                {
+                                  "type": "recommendation",
+                                  "content": "ATMs are widely available in cities, but it’s advisable to carry cash when visiting remote areas."
+                                },
+                                {
+                                  "type": "note",
+                                  "content": "Tipping is common in restaurants and for trekking guides; 10% is usually sufficient."
+                                }
+                              ]
+                            },
+                            "Local Etiquette and Customs": {
+                              "General": [
+                                {
+                                  "type": "text",
+                                  "content": "Nepalese people greet with 'Namaste,' joining palms together at the chest. Dress modestly, especially when visiting temples."
+                                },
+                                {
+                                  "type": "recommendation",
+                                  "content": "Always remove shoes when entering a temple or someone’s home."
+                                },
+                                {
+                                  "type": "note",
+                                  "content": "Be respectful of religious practices; do not touch objects on altars or step over people in temples."
+                                }
+                              ]
+                            },
+                            "Language and Communication": {
+                              "General": [
+                                {
+                                  "type": "text",
+                                  "content": "The official language is Nepali, but English is widely spoken in tourist areas."
+                                },
+                                {
+                                  "type": "recommendation",
+                                  "content": "Learning a few basic Nepali phrases like 'Dhanyabad' (Thank you) and 'Namaste' (Hello) can help create a positive impression."
+                                }
+                              ]
+                            },
+                            "Travel Tips and Resources": {
+                              "General": [
+                                {
+                                  "type": "text",
+                                  "content": "Make sure to carry a power bank and download offline maps before trekking in remote areas where internet may be unavailable."
+                                },
+                                {
+                                  "type": "recommendation",
+                                  "content": "Useful apps include Pathao for transportation and Maps.me for offline navigation during treks."
+                                }
+                              ]
+                            }
+                         
+
+    
+  }
+}
+
